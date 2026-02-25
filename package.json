@@ -1,0 +1,14 @@
+{
+  "name": "dchizmetin-bot",
+  "version": "2.1.0",
+  "description": "Profesyonel Ticket ve AI Sistemi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "groq-sdk": "^0.3.3"
+  }
+}
