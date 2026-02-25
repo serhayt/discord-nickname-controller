@@ -1,0 +1,9 @@
+{
+  "token": "BOT_TOKEN",
+  "prefix": ".",
+  "groq_api_key": "GROQ_API_ANAHTARIN",
+  "ai_channel": "YAPAY_ZEKA_KANAL_ID",
+  "log_category_id": null,
+  "modmail_channel_id": null,
+  "channels": {}
+}
